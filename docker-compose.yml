@@ -1,0 +1,15 @@
+services:
+  db:
+    image: postgres:17
+    container_name: spartan-db
+    environment:
+      POSTGRES_DB: spartan_db
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: spartan123
+    ports:
+      - "5432:5432"
+    volumes:
+      - spartan_data:/var/lib/postgresql/data
+
+volumes:
+  spartan_data:
