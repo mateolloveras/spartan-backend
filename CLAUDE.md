@@ -2,7 +2,7 @@
 
 ## Leer primero
 Antes de cualquier tarea, leer el análisis completo del proyecto:
-`C:\Users\Alan Romero\Documents\PROJECTS\molon-labe-analisis.md`
+`molon-labe-analisis.md` en el repo `spartan-frontend` (raíz del repo)
 
 Contiene: arquitectura, roles, pantallas diseñadas, endpoints definidos, orden de desarrollo y setup completo.
 
