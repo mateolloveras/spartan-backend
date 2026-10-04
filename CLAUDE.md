@@ -58,7 +58,7 @@ Connection string ya configurada en `appsettings.json` apuntando al contenedor.
 4. `dotnet ef migrations add InitialCreate`
 5. `dotnet ef database update`
 6. `dotnet run`
-7. Swagger en `http://localhost:5000/swagger`
+7. Scalar (API docs) en `http://localhost:5000/scalar`
 
 ## Convenciones
 - Cada módulo tiene su Controller, Service y carpeta DTOs
