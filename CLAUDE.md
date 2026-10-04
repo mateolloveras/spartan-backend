@@ -67,6 +67,9 @@ Connection string ya configurada en `appsettings.json` apuntando al contenedor.
 - CORS configurado para `http://localhost:4200` (Angular dev server)
 - Swagger habilitado solo en Development
 
+## Forma de trabajo
+Ambos integrantes del equipo trabajan en ambos repos. Cada uno se encarga de una feature completa (frontend + backend) por vez. Al arrancar una tarea nueva, verificar si hay cambios en el repo del compañero con `git pull`.
+
 ## Frontend
 El repo del frontend es `spartan-frontend/` (mismo nivel que este repo).
 Los diseños HTML de referencia están en `spartan-design/`.
