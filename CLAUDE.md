@@ -72,4 +72,4 @@ Ambos integrantes del equipo trabajan en ambos repos. Cada uno se encarga de una
 
 ## Frontend
 El repo del frontend es `spartan-frontend/` (mismo nivel que este repo).
-Los diseños HTML de referencia están en `spartan-design/`.
+Los diseños HTML de referencia están en `spartan-design/` dentro del repo `spartan-frontend`.
