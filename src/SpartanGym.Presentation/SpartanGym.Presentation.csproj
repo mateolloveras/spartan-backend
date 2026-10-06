@@ -1,0 +1,11 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+  <ItemGroup>
+    <PackageReference Include="FluentValidation" />
+    <PackageReference Include="Microsoft.AspNetCore.OpenApi" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\SpartanGym.Application\SpartanGym.Application.csproj" />
+    <ProjectReference Include="..\SpartanGym.Infrastructure\SpartanGym.Infrastructure.csproj" />
+    <ProjectReference Include="..\SpartanGym.Domain\SpartanGym.Domain.csproj" />
+  </ItemGroup>
+</Project>
